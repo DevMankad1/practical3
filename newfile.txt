@@ -1,0 +1,18 @@
+Managing files in linux with git
+
+-> create a new directory on your linux machine
+-> initialize a git repository in directory
+-> create a new file in directory 
+-> add and comit the file to the git repository
+-> make changes to the file and then commit those changes to the repository
+-> use git to view the commit history of the repository
+
+https://github.com/DevMankad1/GitPushUsingLinux.git
+
+creating a git repository and pushing changes
+
+-> create new git repository on github 
+-> clone the repository to your local machine
+-> create new file and make changes to an exciting file
+-> add or commit the chganges to the repository
+-> piush the changes to the remote repository
